@@ -1,0 +1,26 @@
+.barran{
+    background-color: #373A3C;
+    
+}
+
+.navbar-brand{
+    padding-left: 140px;
+}
+
+.navbar-nav{
+    padding-right: 120px;
+}
+
+.principal{
+    width: 482px;
+    height: 384px;
+    margin: 24px 600px 332px 150px;
+}
+
+#aside{
+ justify-content: end;
+}
+
+h2{
+    text-align: center;
+}
